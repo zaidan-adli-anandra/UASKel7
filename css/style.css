@@ -4734,11 +4734,11 @@ ul {
 
 /* line 26, E:/167 Bizcon Business/Bizcon_html/sass/_breadcrumb.scss */
 .breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
-  color: #000000;
-  font-size: 65px;
+  color: #1f1f1f;
+  font-size: 70px;
   font-weight: 800;
   text-transform: capitalize;
-  margin-top: 25px;
+  margin-top: 17px;
   font-family: poppins;
 
 }
